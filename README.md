@@ -57,6 +57,7 @@ Bachelor of Commerce (Economics and Finance)
 
 [Classification based projects](#classification-based-projects) <br>
 [Regression based projects](#regression-based-projects) <br>
+[BCG Rise Project](#BCG-Rise-project) <br>
 
 <!-- Add your details -->
 
@@ -72,6 +73,12 @@ In machine learning, classification refers to a predictive modeling problem wher
 
 Regression is a supervised learning technique which helps in finding the correlation between variables and enables us to predict the continuous output variable based on the one or more predictor variables.
 
+#### BCG Rise Projects
+
+Part of BCG Rise Program in the Business Digital Analytics track
+
+[for more details refer to this link:] (https://bcg.com)
+
 [Click here to view codebase](https://github.com/krvishwesh54/DataScience_DeepLearning_MachineLearning/tree/master/Regression)
 
 <!-- PROJECTS Section Ends -->
@@ -80,8 +87,8 @@ Regression is a supervised learning technique which helps in finding the correla
 ## FEATURED
 <!-- Add your details -->
 ##### Certifications
-Machine Learning by Columbia University
+RISE by BCGDigital academy
 
 ##### Achievements
-Star performer of the year at Accenture
+xxxxxxxx
 <!-- FEATURED Section Ends -->
