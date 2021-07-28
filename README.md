@@ -15,7 +15,7 @@
 
 <!-- Add your details -->
 
-I am __Kumar Vishwesh__, a seasoned data scientist with ~7 years of progressive experience in artificial intelligence. I have contributed as an AI product developer (R&D unit) and been AI consultant for top-notch clients in their AI journey. I am involved in comprehensive development, design & analysis of AI algorithms to build analytical solutions, while facilitating and leading data science teams.
+I am __Joshua Hui__, an analytical problem solver and effective communicator with a demonstrated history of success in managing as well as convincing stakeholders of diverse backgrounds and seniority. Experienced in business/project management, strategy and front office roles in asset management and corporate banking. Adaptable and comfortable with navigating ambiguity, driving strategic decision-making through utilising quantitative and qualitative data. A dynamic individual, keen learner and relationship builder.
 
 
 <!-- Add link to the sections -->
@@ -29,22 +29,25 @@ I am __Kumar Vishwesh__, a seasoned data scientist with ~7 years of progressive 
 <!-- EXPERIENCE Section Starts -->
 ### EXPERIENCE
 <!-- Add your details -->
-##### BOSTON CONSULTING GROUP
-SENIOR ANALYST<br>
-June-2019 to Present: 1 year 10 Months
+##### First Abu Dhabi Bank
+ASSOCIATE DIRECTOR<br>
+June-2019 to Present: 1 year 0 Months
 
-ROLE: Data Scientist/ Machine Learning Engineer/ AI Consultant
-UNIT: BCG GAMMA
+ROLE: Sales and Business Management
+UNIT: Global Markets
 
-Working on various analytics based cases that facilitates clients for next-generation AI strategy. Involved in asset building while applying scientific algorithms on a huge amount of text, time-series data, images and other forms of unstructured data.
+Working on various analytics based cases that facilitates clients for next-generation AI strategy. Involved in asset building while applying scientific algorithms on a huge amount of text, time-series data, images and other forms of unstructured data.xxxxxx
 
 <!-- EXPERIENCE Section Ends -->
 
 <!-- EDUCATION Section Starts -->
 ### EDUCATION
 <!-- Add your details -->
-##### LNCT Bhopal
-Engineering Graduate 2010-14, First Division
+##### The University of Melbourne
+Masters of Finance
+
+##### The University of Melbourne
+Bachelor of Commerce (Economics and Finance)
 
 <!-- EDUCATION Section Ends -->
 
